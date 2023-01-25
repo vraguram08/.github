@@ -1,1 +1,4 @@
 # Let's Schedule
+Let’s Schedule is a smart scheduling mobile application that helps people effectively manage their schedules. The app features automated task scheduling, which can generate a schedule for people based on the priorities of the given tasks and the expected time each task takes up given the user’s existing schedule.
+
+Scheduling apps primarily rely on the user coming up with all of the tasks they need to complete, estimating the duration and priority of each task, and finding the appropriate time slots for these tasks in their schedule. This requires a lot of time and decision-making. Automating a part of this process will reduce the effort required by users to plan their day so that they can use this energy instead to complete what they need to do. Let’s Schedule is for users who want to waste less time planning their day.
