@@ -39,6 +39,6 @@ Feedback on the architecture model and Github repository
 3. Next week I will hopefully have everything set up, have the database completed, and start setting up the rest of the backend (e.g. login authentication).
 
 #### Vasudev:
-1. 
-2. 
-3. 
+1. In the coming week I will integrate myself better into the group and attend all meetings that are scheduled. 
+2. Since this is the first group project I've had since high school my social anxiety has made it hard for me to be as involved as I would like to. I have been doing independent learning about what tools we're going to need for the backend but I will start working and contributing to creating it this week.
+3. Hopefully by next week the database will be set up and mostly operational.
