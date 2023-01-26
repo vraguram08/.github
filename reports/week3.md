@@ -19,9 +19,9 @@ Feedback on the architecture model and Github repository
 3. I will start to figure out how the React Native framework works and collaborate with Jacob to work on the calendar view with the goal to finish it early in order to get started on the auto scheduling algorithm.
 
 #### Jacob:
-1. 
-2. 
-3. 
+1. Tomorrow I'm hoping to have the REST API finalized, after that I'll be working on setting up React Native and starting work on the frontend
+2. I worked with the rest of the team to write up the REST API. As I was hoping this forced us to consider the specifics of our design, exactly what information needed to be stored, and needed to be communicated between client/server. I also worked to set up an empty React Native project, confirming I could build the app successfully in the development environment. We were hoping to have more of the frontend done this week, but there's still time tomorrow to get started on a calendar view.
+3. This week I would like to get a skeleton of the application started in React, mainly focusing on the calendar layout and how events are displayed on the screen. I will be working with the rest of the frontend team on this.
 
 #### James:
 1. 
