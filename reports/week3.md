@@ -24,9 +24,9 @@ Feedback on the architecture model and Github repository
 3. This week I would like to get a skeleton of the application started in React, mainly focusing on the calendar layout and how events are displayed on the screen. I will be working with the rest of the frontend team on this.
 
 #### James:
-1. 
-2. 
-3. 
+1. In the following week I plan on designing the database schema, and implementing the necessary rails Index and Create controller methods (based off the REST API specification). I will also work to finish the REST API specification.
+2. I worked with team members on the REST API specification, and wrote the readme describing the layout of the backend. I also figured out how to implement the GET and POST responses in Ruby on Rails.
+3. I plan on working with the rest of the group in the coming week to help identify how we want to represent data in our databases, given what functionality we want to implement in our application.
 
 #### Marlena:
 1.  In the coming week I will contribute to the team building of the API and I will work on the Git setup assignment. I will also start work on the database creation/queries with the backend group.
