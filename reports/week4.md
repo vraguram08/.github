@@ -34,9 +34,9 @@ n/a
 3. 
 
 #### Thompson:
-1. 
-2. 
-3. 
+1. Next week I will hopefully have everything set up, have the database completed, and start setting up the rest of the backend (e.g. login authentication).
+2. I helped the team finish defining the architecture and design of our project. We also have a better understanding of how we want to represent data in our databases.
+3. I will continue working on helping the backend team create the database queries and help set up automated testing.
 
 #### Vasudev:
 1. 
